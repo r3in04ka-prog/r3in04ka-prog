@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
+<title id="title">REINOCHKA</title><desc id="desc">Красный типографический постер REINOCHKA. AI Automation, Digital Products, AI-assisted Development.</desc>
+<defs><filter id="paper"><feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".055"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter></defs>
+<rect width="1200" height="1000" fill="#BE0918"/>
+<rect width="1200" height="1000" fill="#BE0918" filter="url(#paper)"/>
+<g fill="#0A0A0A" text-anchor="middle" font-family="Impact,'Arial Narrow',Arial,sans-serif" font-weight="900">
+<text x="600" y="285" font-size="156" textLength="980" lengthAdjust="spacingAndGlyphs">REINOCHKA</text>
+<text x="600" y="475" font-size="66" textLength="640" lengthAdjust="spacingAndGlyphs">AI AUTOMATION</text>
+<text x="600" y="555" font-size="66" textLength="750" lengthAdjust="spacingAndGlyphs">DIGITAL PRODUCTS</text>
+<text x="600" y="630" font-size="49" textLength="850" lengthAdjust="spacingAndGlyphs">AI-ASSISTED DEVELOPMENT</text>
+<path d="M600 717 613 755 653 755 621 779 633 818 600 794 567 818 579 779 547 755 587 755Z"/>
+<text x="600" y="905" font-size="29" textLength="310" lengthAdjust="spacingAndGlyphs">IDEA TO PRODUCT</text>
+</g></svg>
