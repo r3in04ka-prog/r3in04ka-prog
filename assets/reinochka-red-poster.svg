@@ -1,13 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
-<title id="title">REINOCHKA</title><desc id="desc">Красный типографический постер REINOCHKA. AI Automation, Digital Products, AI-assisted Development.</desc>
-<defs><filter id="paper"><feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".055"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter></defs>
-<rect width="1200" height="1000" fill="#BE0918"/>
-<rect width="1200" height="1000" fill="#BE0918" filter="url(#paper)"/>
-<g fill="#0A0A0A" text-anchor="middle" font-family="Impact,'Arial Narrow',Arial,sans-serif" font-weight="900">
-<text x="600" y="285" font-size="156" textLength="980" lengthAdjust="spacingAndGlyphs">REINOCHKA</text>
-<text x="600" y="475" font-size="66" textLength="640" lengthAdjust="spacingAndGlyphs">AI AUTOMATION</text>
-<text x="600" y="555" font-size="66" textLength="750" lengthAdjust="spacingAndGlyphs">DIGITAL PRODUCTS</text>
-<text x="600" y="630" font-size="49" textLength="850" lengthAdjust="spacingAndGlyphs">AI-ASSISTED DEVELOPMENT</text>
-<path d="M600 717 613 755 653 755 621 779 633 818 600 794 567 818 579 779 547 755 587 755Z"/>
-<text x="600" y="905" font-size="29" textLength="310" lengthAdjust="spacingAndGlyphs">IDEA TO PRODUCT</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="640" viewBox="0 0 1440 640" role="img" aria-labelledby="title desc">
+<title id="title">REINOCHKA — AI Automation / Digital Products</title>
+<desc id="desc">Чёрно-красный редакционный баннер с крупной экспериментальной типографикой и белыми акцентами.</desc>
+<rect width="1440" height="640" fill="#101010"/>
+<path d="M0 0H1440V76H0Z" fill="#ed1935"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#f4f1eb">
+<text x="44" y="48" font-size="23" font-weight="700" letter-spacing="4">INDEPENDENT / AI PRODUCT BUILDER</text>
+<text x="1396" y="48" text-anchor="end" font-size="20" fill="#101010">RE / 01</text>
+<text x="35" y="275" font-size="210" font-weight="900" letter-spacing="-14" textLength="1355" lengthAdjust="spacingAndGlyphs">REINOCHKA</text>
+<path d="M44 318H1396" stroke="#f4f1eb"/>
+<text x="44" y="375" font-size="21" letter-spacing="3">IDEA → PROTOTYPE → PRODUCT</text>
+<text x="44" y="458" font-size="66" font-weight="900" letter-spacing="-2">AI AUTOMATION</text>
+<text x="44" y="531" font-size="66" font-weight="900" letter-spacing="-2">DIGITAL PRODUCTS</text>
+<text x="46" y="601" font-size="19" letter-spacing="3">AI-ASSISTED DEVELOPMENT / HUMAN DIRECTION</text>
+</g>
+<g transform="translate(1180 446) rotate(-12)">
+<rect x="-165" y="-52" width="330" height="104" fill="#ed1935"/>
+<text x="0" y="14" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="900" fill="#101010">BUILD / TEST</text>
+</g>
+</svg>
