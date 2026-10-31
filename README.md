@@ -1,4 +1,4 @@
-<img src="assets/reinochka-header.svg" alt="REINOCHKA — AI Automation / Digital Products" width="100%">
+<img src="https://raw.githubusercontent.com/r3in04ka-prog/r3in04ka-prog/main/assets/reinochka-red-poster.svg" alt="REINOCHKA — AI Automation / Digital Products" width="100%">
 
 # REINOCHKA
 
