@@ -1,3 +1,5 @@
+<img src="assets/reinochka-red-poster.svg" alt="REINOCHKA — AI Automation / Digital Products" width="100%">
+
 # REINOCHKA
 **Анастасия Вакуленко · AI Product Builder / AI Automation**
 
