@@ -10,3 +10,7 @@ These five bitmap graphics implement the profile owner's selected fourth visual 
 - `euphoria.png`: wide red paper strip, Euphoria, “сайт салона”, “В РАЗРАБОТКЕ”, black arrow.
 
 Shared production brief: flat final README artwork only; near-black distressed paper, saturated vermilion and warm ivory; no GitHub shell, fake controls, contact details, invented statistics, neon or gradients. Text belongs to each bitmap. Images retain natural aspect ratios and link to their respective project pages in the profile README. The native GitHub sidebar is not part of the artwork.
+
+`openpost-cover.jpg` was generated with the same built-in tool on 2026-11-16 and exported at 1200×630: oversized OpenPost, “Почта под твоим контролем”, envelope collage, torn paper, barcode and the same print palette. It is also used as the OpenPost repository's social preview.
+
+New previews under `../previews/` are real application captures, not generated interface mockups. OpenPost uses its built-in synthetic mailbox; Purrsonal uses isolated settings and a test local server. Their GIFs demonstrate the recorded interfaces without connecting private accounts or publishing personal messages.

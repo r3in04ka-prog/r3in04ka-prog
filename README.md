@@ -10,6 +10,8 @@
   <a href="PORTFOLIO.md"><strong>ПОРТФОЛИО →</strong></a>
 </p>
 
+[English](README.en.md) · [Сотрудничество](WORK-WITH-ME.md)
+
 **Анастасия Вакуленко · AI Product Builder / AI Automation**<br>
 Новосибирск · Удалённо или в офисе · Готова к переезду
 
@@ -27,6 +29,10 @@
 
 [**Purrsonal →**](cases/purrsonal.md) Открытый ИИ-помощник для Windows. [Скачать первую версию ↗](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.1.0)
 
+<a href="cases/openpost.md"><img src="assets/zine/openpost-cover.jpg" width="100%" alt="OpenPost — почта под твоим контролем. Открыть кейс почтового клиента."></a>
+
+[**OpenPost →**](cases/openpost.md) Почтовый клиент для Windows: входящие, поиск, чтение и отправка. [Скачать ↗](https://github.com/r3in04ka-prog/openpost/releases/latest)
+
 <a href="cases/euphoria.md"><img src="assets/zine/euphoria.png" width="100%" alt="Euphoria — сайт салона и онлайн-запись. Проект в разработке. Открыть кейс."></a>
 
 [**Euphoria →**](cases/euphoria.md) Сайт салона и пользовательский путь записи. В разработке.
@@ -42,6 +48,8 @@
   <a href="PORTFOLIO.md"><strong>ВИЗУАЛЬНЫЕ РАБОТЫ →</strong></a>
   &nbsp; / &nbsp;
   <a href="ABOUT.md"><strong>ОПЫТ И ПОДРОБНЫЕ КЕЙСЫ →</strong></a>
+  &nbsp; / &nbsp;
+  <a href="WORK-WITH-ME.md"><strong>СОТРУДНИЧЕСТВО →</strong></a>
 </p>
 
 <details>
