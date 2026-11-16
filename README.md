@@ -1,4 +1,4 @@
-<a href="https://reinochka.cashed.dydns.io/">
+<a href="PORTFOLIO.md">
   <img src="assets/zine/hero.png" width="100%" alt="REINOCHKA — Анастасия Вакуленко. Идеи — мои. Возможности — шире. Создаю цифровые продукты и автоматизацию с ИИ. Свои идеи. Свой подход. Свой почерк.">
 </a>
 
@@ -7,34 +7,29 @@
   &nbsp; / &nbsp;
   <a href="mailto:r3in04ka@gmail.com"><strong>EMAIL ↗</strong></a>
   &nbsp; / &nbsp;
-  <a href="https://reinochka.cashed.dydns.io/"><strong>ПОРТФОЛИО ↗</strong></a>
+  <a href="PORTFOLIO.md"><strong>ПОРТФОЛИО →</strong></a>
 </p>
 
 **Анастасия Вакуленко · AI Product Builder / AI Automation**<br>
 Новосибирск · Удалённо или в офисе · Готова к переезду
 
-От задачи и пользовательского сценария — к реализации с ИИ, проверке и доработке. **Открыта к постоянной работе в IT.**
+**Ищу работу в AI-прототипировании и автоматизации.** Проектирую пользовательские сценарии, организую разработку с ИИ и проверяю результат.
 
-<table>
-  <tr>
-    <td width="43%" rowspan="3" valign="middle">
-      <a href="cases/cashed.md"><img src="assets/zine/cashed.png" width="100%" alt="CASHED! — цифровое ателье. Концепция бренда, дизайн и сайт. Открыть кейс."></a>
-    </td>
-    <td width="57%">
-      <a href="cases/smile-talk.md"><img src="assets/zine/smile-talk.png" width="100%" alt="SMILE TALK — автоматизация клиники: CRM, Telegram-боты, интеграции. Открыть кейс."></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/r3in04ka-prog/purrsonal"><img src="assets/zine/purrsonal.png" width="100%" alt="Purrsonal — ИИ-котик для рабочего стола Windows. Открыть исходники и установщик."></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="cases/euphoria.md"><img src="assets/zine/euphoria.png" width="100%" alt="Euphoria — сайт салона и онлайн-запись. Проект в разработке. Открыть кейс."></a>
-    </td>
-  </tr>
-</table>
+<a href="cases/cashed.md"><img src="assets/zine/cashed-wide.png" width="100%" alt="CASHED! — цифровое ателье. Концепция бренда, дизайн и сайт. Открыть кейс."></a>
+
+[**CASHED! →**](cases/cashed.md) Концепция бренда, дизайн и сайт цифрового ателье.
+
+<a href="cases/smile-talk.md"><img src="assets/zine/smile-talk.png" width="100%" alt="SMILE TALK — автоматизация клиники: CRM, Telegram-боты, интеграции. Открыть кейс."></a>
+
+[**SMILE TALK →**](cases/smile-talk.md) CRM, Telegram-боты и автоматические сводки. В кейсе — реальные экраны с тестовыми данными.
+
+<a href="cases/purrsonal.md"><img src="assets/zine/purrsonal.png" width="100%" alt="Purrsonal — ИИ-котик для рабочего стола Windows. Посмотреть приложение и скачать."></a>
+
+[**Purrsonal →**](cases/purrsonal.md) Открытый ИИ-помощник для Windows. [Скачать первую версию ↗](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.1.0)
+
+<a href="cases/euphoria.md"><img src="assets/zine/euphoria.png" width="100%" alt="Euphoria — сайт салона и онлайн-запись. Проект в разработке. Открыть кейс."></a>
+
+[**Euphoria →**](cases/euphoria.md) Сайт салона и пользовательский путь записи. В разработке.
 
 <p align="center">
   <a href="cases/cashed.md">CASHED!</a> ·
