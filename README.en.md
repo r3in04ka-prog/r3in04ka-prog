@@ -16,9 +16,9 @@ I turn business needs into user flows, prototypes and digital products with the 
 
 ### [Purrsonal — desktop AI kitten](cases/purrsonal.md)
 
-An open-source Windows companion with a configurable model endpoint, chat, confirmed application shortcuts and persistent reminders. Users bring their own model and optional API key. Early test release; voice, screen understanding and autonomous computer control are not implemented.
+An open-source Windows companion with a configurable model endpoint, chat, confirmed application shortcuts and persistent reminders. Version 0.2.0 adds a one-click offline demo with clearly labelled scripted replies; no model or key is required to try it. For real conversations, users bring their own model and optional API key. Early test release; voice, screen understanding and autonomous computer control are not implemented.
 
-[Download for Windows](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.1.0) · [Source](https://github.com/r3in04ka-prog/purrsonal)
+[Download for Windows](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0) · [Source](https://github.com/r3in04ka-prog/purrsonal)
 
 ### [OpenPost — desktop email client](cases/openpost.md)
 

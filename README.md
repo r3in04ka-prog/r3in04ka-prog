@@ -27,7 +27,7 @@
 
 <a href="cases/purrsonal.md"><img src="assets/zine/purrsonal.png" width="100%" alt="Purrsonal — ИИ-котик для рабочего стола Windows. Посмотреть приложение и скачать."></a>
 
-[**Purrsonal →**](cases/purrsonal.md) Открытый ИИ-помощник для Windows. [Скачать первую версию ↗](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.1.0)
+[**Purrsonal →**](cases/purrsonal.md) Открытый ИИ-помощник для Windows с демо без настройки. [Скачать для Windows ↗](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0)
 
 <a href="cases/openpost.md"><img src="assets/zine/openpost-cover.jpg" width="100%" alt="OpenPost — почта под твоим контролем. Открыть кейс почтового клиента."></a>
 
@@ -40,7 +40,7 @@
 <p align="center">
   <a href="cases/cashed.md">CASHED!</a> ·
   <a href="cases/smile-talk.md">SMILE TALK</a> ·
-  <a href="https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.1.0">Скачать Purrsonal</a> ·
+  <a href="https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0">Скачать Purrsonal</a> ·
   <a href="cases/euphoria.md">Euphoria</a>
 </p>
 
