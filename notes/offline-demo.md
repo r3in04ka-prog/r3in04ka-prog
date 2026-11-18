@@ -1,3 +1,5 @@
+**RU** / [EN](../en/notes/offline-demo.md)
+
 [← Полезные материалы](../USEFUL.md) · [Кейс Purrsonal](../cases/purrsonal.md)
 
 # Демо, которому не нужен ключ

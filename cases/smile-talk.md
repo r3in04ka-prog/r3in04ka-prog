@@ -1,3 +1,5 @@
+**RU** / [EN](../en/cases/smile-talk.md)
+
 [← REINOCHKA](../README.md)
 
 # 03 / SMILE TALK

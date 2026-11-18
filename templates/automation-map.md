@@ -1,3 +1,5 @@
+**RU** / [EN](../en/templates/automation-map.md)
+
 [← Все материалы](../USEFUL.md)
 
 # Карта автоматизации

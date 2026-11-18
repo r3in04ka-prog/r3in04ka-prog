@@ -1,3 +1,5 @@
+**RU** / [EN](../en/cases/openpost.md)
+
 [← REINOCHKA](../README.md)
 
 # OpenPost

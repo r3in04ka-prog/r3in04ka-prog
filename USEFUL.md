@@ -1,3 +1,5 @@
+**RU** / [EN](en/USEFUL.md)
+
 [← Профиль](README.md) · [С чего начать](START-HERE.md)
 
 <img src="assets/zine/useful.jpg" width="100%" alt="Забрать в работу — шаблоны, чек-листы и разборы REINOCHKA.">

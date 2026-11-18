@@ -1,3 +1,5 @@
+**RU** / [EN](../en/cases/euphoria.md)
+
 [← REINOCHKA](../README.md)
 
 # 02 / Euphoria — «ЭЙФОРИЯ»

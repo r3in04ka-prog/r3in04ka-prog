@@ -1,3 +1,5 @@
+**RU** / [EN](../en/templates/product-brief.md)
+
 [← Все материалы](../USEFUL.md)
 
 # Бриф первой версии продукта

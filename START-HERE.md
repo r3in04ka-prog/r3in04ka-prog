@@ -1,3 +1,5 @@
+**RU** / [EN](en/START-HERE.md)
+
 [← Профиль](README.md) · [English](README.en.md)
 
 # С чего начать

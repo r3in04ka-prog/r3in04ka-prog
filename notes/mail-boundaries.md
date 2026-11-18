@@ -1,3 +1,5 @@
+**RU** / [EN](../en/notes/mail-boundaries.md)
+
 [← Полезные материалы](../USEFUL.md) · [Кейс OpenPost](../cases/openpost.md)
 
 # Почтовый клиент без дискового архива

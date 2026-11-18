@@ -1,3 +1,5 @@
+**RU** / [EN](../en/templates/release-card.md)
+
 [← Все материалы](../USEFUL.md)
 
 # Карточка понятного релиза

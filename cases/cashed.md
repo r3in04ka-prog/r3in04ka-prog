@@ -1,3 +1,5 @@
+**RU** / [EN](../en/cases/cashed.md)
+
 [← REINOCHKA](../README.md)
 
 # 01 / CASHED!

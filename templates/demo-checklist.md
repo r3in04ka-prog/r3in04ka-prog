@@ -1,3 +1,5 @@
+**RU** / [EN](../en/templates/demo-checklist.md)
+
 [← Все материалы](../USEFUL.md)
 
 # Проверка деморежима

@@ -1,3 +1,5 @@
+**RU** / [EN](../en/cases/purrsonal.md)
+
 [← REINOCHKA](../README.md)
 
 # Purrsonal
