@@ -12,6 +12,12 @@ I turn business needs into user flows, prototypes and digital products with the 
 
 [Telegram](https://t.me/r3in04ka) · [Email](mailto:r3in04ka@gmail.com) · [Visual portfolio](PORTFOLIO.md)
 
+## Explore and reuse
+
+- [Start here (Russian)](START-HERE.md): try an app, review a case or contribute.
+- [Practical resources (Russian)](USEFUL.md): four reusable Markdown templates and two implementation notes grounded in the projects.
+- The four templates are available under [MIT](templates/LICENSE): product brief, automation map, demo checklist and release card.
+
 ## Selected projects
 
 ### [Purrsonal — desktop AI kitten](cases/purrsonal.md)

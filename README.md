@@ -1,65 +1,69 @@
-<a href="PORTFOLIO.md">
-  <img src="assets/zine/hero.png" width="100%" alt="REINOCHKA — Анастасия Вакуленко. Идеи — мои. Возможности — шире. Создаю цифровые продукты и автоматизацию с ИИ. Свои идеи. Свой подход. Свой почерк.">
+<a href="START-HERE.md">
+  <img src="assets/zine/hero.png" width="100%" alt="REINOCHKA — Анастасия Вакуленко. Идеи — мои. Возможности — шире. Свои идеи. Свой подход. Свой почерк.">
 </a>
 
 <p align="center">
-  <a href="https://t.me/r3in04ka"><strong>TELEGRAM ↗</strong></a>
+  <a href="START-HERE.md"><strong>С ЧЕГО НАЧАТЬ →</strong></a>
   &nbsp; / &nbsp;
-  <a href="mailto:r3in04ka@gmail.com"><strong>EMAIL ↗</strong></a>
+  <a href="USEFUL.md"><strong>ЗАБРАТЬ В РАБОТУ →</strong></a>
   &nbsp; / &nbsp;
-  <a href="PORTFOLIO.md"><strong>ПОРТФОЛИО →</strong></a>
+  <a href="WORK-WITH-ME.md"><strong>СОТРУДНИЧЕСТВО →</strong></a>
 </p>
-
-[English](README.en.md) · [Сотрудничество](WORK-WITH-ME.md)
 
 **Анастасия Вакуленко · AI Product Builder / AI Automation**<br>
 Новосибирск · Удалённо или в офисе · Готова к переезду
 
 **Ищу работу в AI-прототипировании и автоматизации.** Проектирую пользовательские сценарии, организую разработку с ИИ и проверяю результат.
 
-<a href="cases/cashed.md"><img src="assets/zine/cashed-wide.png" width="100%" alt="CASHED! — цифровое ателье. Концепция бренда, дизайн и сайт. Открыть кейс."></a>
+[Telegram](https://t.me/r3in04ka) · [Email](mailto:r3in04ka@gmail.com) · [English](README.en.md) · [Визуальное портфолио](PORTFOLIO.md)
 
-[**CASHED! →**](cases/cashed.md) Концепция бренда, дизайн и сайт цифрового ателье.
+## Зачем заглянуть
 
-<a href="cases/smile-talk.md"><img src="assets/zine/smile-talk.png" width="100%" alt="SMILE TALK — автоматизация клиники: CRM, Telegram-боты, интеграции. Открыть кейс."></a>
+- **Попробовать:** два открытых приложения для Windows с деморежимами.
+- **Посмотреть подход:** кейсы автоматизации, интерфейсов и цифрового бренда.
+- **Взять для себя:** четыре шаблона и два разбора решений из проектов.
 
-[**SMILE TALK →**](cases/smile-talk.md) CRM, Telegram-боты и автоматические сводки. В кейсе — реальные экраны с тестовыми данными.
+<a href="USEFUL.md"><img src="assets/zine/useful.jpg" width="100%" alt="Забрать в работу — шаблоны, чек-листы и разборы REINOCHKA."></a>
 
-<a href="cases/purrsonal.md"><img src="assets/zine/purrsonal.png" width="100%" alt="Purrsonal — ИИ-котик для рабочего стола Windows. Посмотреть приложение и скачать."></a>
+[Бриф продукта](templates/product-brief.md) · [Карта автоматизации](templates/automation-map.md) · [Проверка демо](templates/demo-checklist.md) · [Карточка релиза](templates/release-card.md)
 
-[**Purrsonal →**](cases/purrsonal.md) Открытый ИИ-помощник для Windows с демо без настройки. [Скачать для Windows ↗](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0)
+**Разборы:** [Демо без модели и ключа](notes/offline-demo.md) / [Границы почтового клиента](notes/mail-boundaries.md)
 
-<a href="cases/openpost.md"><img src="assets/zine/openpost-cover.jpg" width="100%" alt="OpenPost — почта под твоим контролем. Открыть кейс почтового клиента."></a>
+## Можно попробовать
 
-[**OpenPost →**](cases/openpost.md) Почтовый клиент для Windows: входящие, поиск, чтение и отправка. [Скачать ↗](https://github.com/r3in04ka-prog/openpost/releases/latest)
+<a href="cases/purrsonal.md"><img src="assets/zine/purrsonal.png" width="100%" alt="Purrsonal — ИИ-котик для рабочего стола Windows. Кейс и демонстрация."></a>
 
-<a href="cases/euphoria.md"><img src="assets/zine/euphoria.png" width="100%" alt="Euphoria — сайт салона и онлайн-запись. Проект в разработке. Открыть кейс."></a>
+[**Purrsonal →**](cases/purrsonal.md) Котик поверх окон, свой характер и модель, напоминания. Начни с «Попробовать демо» — без модели и ключа; ответы в демо подготовлены заранее.
 
-[**Euphoria →**](cases/euphoria.md) Сайт салона и пользовательский путь записи. В разработке.
+[Скачать для Windows](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0) · [Посмотреть демонстрацию](cases/purrsonal.md#демонстрация) · [Помочь проекту](https://github.com/r3in04ka-prog/purrsonal/blob/main/ROADMAP.md)
 
-<p align="center">
-  <a href="cases/cashed.md">CASHED!</a> ·
-  <a href="cases/smile-talk.md">SMILE TALK</a> ·
-  <a href="https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0">Скачать Purrsonal</a> ·
-  <a href="cases/euphoria.md">Euphoria</a>
-</p>
+<a href="cases/openpost.md"><img src="assets/zine/openpost-cover.jpg" width="100%" alt="OpenPost — почта под твоим контролем. Кейс и демонстрация."></a>
 
-<p align="center">
-  <a href="PORTFOLIO.md"><strong>ВИЗУАЛЬНЫЕ РАБОТЫ →</strong></a>
-  &nbsp; / &nbsp;
-  <a href="ABOUT.md"><strong>ОПЫТ И ПОДРОБНЫЕ КЕЙСЫ →</strong></a>
-  &nbsp; / &nbsp;
-  <a href="WORK-WITH-ME.md"><strong>СОТРУДНИЧЕСТВО →</strong></a>
-</p>
+[**OpenPost →**](cases/openpost.md) Почтовый клиент: входящие, поиск, чтение и отправка. Встроенный демонстрационный ящик позволяет посмотреть интерфейс без личной почты.
+
+[Скачать для Windows](https://github.com/r3in04ka-prog/openpost/releases/latest) · [Посмотреть демонстрацию](cases/openpost.md#демонстрация) · [Помочь проекту](https://github.com/r3in04ka-prog/openpost/blob/main/ROADMAP.md)
+
+## Опыт и другие проекты
+
+[**SMILE TALK — автоматизация клиники →**](cases/smile-talk.md) CRM, Telegram-боты, интеграции и ежедневные сводки. В кейсе — рабочие сценарии и реальные интерфейсы с тестовыми данными.
 
 <details>
-<summary>Коротко о проектах и моей роли</summary>
+<summary>Открыть визуальную подборку: SMILE TALK, CASHED! и Euphoria</summary>
 
-- **CASHED!** — собственный цифровой бренд: концепция, дизайн, структура услуг и сайт с помощью ИИ. Сайт опубликован; бренд развивается.
-- **SMILE TALK** — требования, продуктовая логика, интерфейсы, организация разработки с ИИ, тестирование и внедрение автоматизации клиники в сентябре 2026. Текущая эксплуатация после моего ухода не проверялась. В кейсе только тестовые данные.
-- **Purrsonal** — открытый проект ИИ-помощника для Windows: котик поверх окон, свой сервер модели, чат, подтверждаемый запуск программ и напоминания. Первая тестовая версия; голос и управление экраном ещё не реализованы.
-- **Euphoria** — сайт салона и сценарий онлайн-записи. В разработке; полный путь записи ещё предстоит завершить и проверить.
+<a href="cases/smile-talk.md"><img src="assets/zine/smile-talk.png" width="100%" alt="SMILE TALK — автоматизация клиники."></a>
 
-Использую ИИ для технической реализации. Моя зона ответственности — постановка задачи, продуктовые решения и проверка результата. [Подробнее о подходе и опыте →](ABOUT.md)
+[Кейс SMILE TALK](cases/smile-talk.md). Внедрение в сентябре 2026; текущая эксплуатация после моего ухода не проверялась. Количественных замеров эффекта не было.
+
+<a href="cases/cashed.md"><img src="assets/zine/cashed-wide.png" width="100%" alt="CASHED! — концепция, дизайн и сайт цифрового ателье."></a>
+
+[Кейс CASHED!](cases/cashed.md). Собственный бренд на этапе запуска; состояние доступности сайта отмечено в кейсе.
+
+<a href="cases/euphoria.md"><img src="assets/zine/euphoria.png" width="100%" alt="Euphoria — сайт салона и онлайн-запись, в разработке."></a>
+
+[Кейс Euphoria](cases/euphoria.md). Сайт салона; полный путь записи ещё предстоит завершить и проверить.
 
 </details>
+
+[Визуальные работы →](PORTFOLIO.md) · [Опыт и подробные кейсы →](ABOUT.md) · [Обсудить работу →](WORK-WITH-ME.md)
+
+Использую ИИ для технической реализации. Моя зона ответственности — постановка задачи, продуктовые решения и проверка поведения продукта. В материалах разделяю реализованное, планы и то, что ещё требует проверки.
