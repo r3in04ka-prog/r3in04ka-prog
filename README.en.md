@@ -1,55 +1,121 @@
-[RU](README.md) / **EN** · [Start here](en/START-HERE.md) · [Resources](en/USEFUL.md) · [Work with me](en/WORK-WITH-ME.md)
+[RU](README.md) / **EN**
 
-<img src="assets/zine/hero.png" width="100%" alt="REINOCHKA — Anastasia Vakulenko. AI product prototyping and automation. Independent black, red and ivory editorial identity.">
+<a href="#selected-projects"><img src="assets/zine/hero.png" width="100%" alt="REINOCHKA — Anastasia Vakulenko. My ideas, my approach, my signature."></a>
 
-# Anastasia Vakulenko / REINOCHKA
+<p align="center">
+<a href="#selected-projects"><strong>EXPLORE PROJECTS ↗</strong></a> &nbsp; / &nbsp;
+<a href="#behind-the-scenes"><strong>BEHIND THE SCENES ↗</strong></a> &nbsp; / &nbsp;
+<a href="#say-hello"><strong>SAY HELLO ↗</strong></a>
+</p>
 
-**AI Product Builder · AI-assisted prototyping and automation**
+**REINOCHKA / Anastasia Vakulenko**
 
-I turn business needs into user flows, prototypes and digital products with the help of AI. My work covers problem definition, product decisions, interface design, coordinating implementation with AI tools, and checking how the result behaves.
+I imagine and build digital things: apps with personality, practical tools and workflow automation.
 
-**Open to full-time roles in AI product prototyping and workflow automation.** Based in Novosibirsk, Russia; open to remote work, office roles and relocation.
-
-[Telegram](https://t.me/r3in04ka) · [Email](mailto:r3in04ka@gmail.com) · [Visual portfolio](en/PORTFOLIO.md)
-
-## Explore and reuse
-
-- [Start here](en/START-HERE.md): try an app, review a case or contribute.
-- [Practical resources](en/USEFUL.md): four reusable templates with examples and two implementation notes.
-- [Product brief](en/templates/product-brief.md) · [Automation map](en/templates/automation-map.md) · [Demo checklist](en/templates/demo-checklist.md) · [Release card](en/templates/release-card.md).
-
-The templates are available under [MIT](templates/LICENSE). All five case studies and both implementation notes are available in English. The recorded application interfaces and original brand artwork are in Russian; project setup and contribution guides may also be in Russian.
+Here you can try what exists, explore how it came together, and see what is still taking shape.
 
 ## Selected projects
 
-### [Purrsonal — desktop AI kitten](en/cases/purrsonal.md)
+### 01 / Purrsonal
+**A little kitten, a bigger idea for personal AI.**
 
-An open-source Windows companion with a configurable model endpoint, chat, confirmed application shortcuts and persistent reminders. Version 0.2.0 adds a one-click offline demo with clearly labelled scripted replies; no model or key is required to try it. For real conversations, users bring their own model and optional API key. Early test release; voice, screen understanding and autonomous computer control are not implemented.
+<a href="en/cases/purrsonal.md"><img src="assets/zine/purrsonal.png" width="100%" alt="Purrsonal — Windows desktop AI kitten."></a>
 
-[Download for Windows](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0) · [Source](https://github.com/r3in04ka-prog/purrsonal)
+A desktop companion with configurable personality, chat with your chosen model and persistent reminders. From a character concept to an open application you can install and make your own.
 
-### [OpenPost — desktop email client](en/cases/openpost.md)
+I defined the concept, behavior and first-version scope, coordinated AI-assisted implementation and checked user flows.
 
-A local-first IMAP/SMTP client with an inbox, plain-text reading, search across loaded messages, local important-message markers, and composing and replying. Includes a demo mailbox with synthetic content. One account; OAuth, attachments and offline storage are not implemented.
+**Try it:** an offline demo without a model or key. Demo replies are scripted; real conversations require your own model. Early test release 0.2.0.
 
-[Download](https://github.com/r3in04ka-prog/openpost/releases/latest) · [Source](https://github.com/r3in04ka-prog/openpost)
+[Download for Windows](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0) · [Story and demo](en/cases/purrsonal.md) · [Source](https://github.com/r3in04ka-prog/purrsonal)
 
-### [SMILE TALK — clinic workflow automation](en/cases/smile-talk.md)
+### 02 / SMILE TALK
+**A clinic system that grew out of an administrator's daily work.**
 
-CRM, Telegram bots, reminders, daily reporting and integrations. While working as a clinic administrator, I identified needs, designed workflows, coordinated implementation with AI, tested and introduced the system in September 2026. The public case uses test data. I no longer have access to the clinic and have not independently verified current operation. No quantified efficiency or revenue claims.
+<a href="en/cases/smile-talk.md"><img src="assets/zine/smile-talk.png" width="100%" alt="SMILE TALK — clinic CRM, Telegram bots and workflow automation."></a>
 
-### [CASHED! — independent digital atelier](en/cases/cashed.md)
+CRM, two Telegram bots, Dental Pro integration, daily reports and a DeepSeek assistant. Problems I knew firsthand became the starting point for a product.
 
-My own digital brand: concept, visual identity, service structure and website. The brand is at the launch stage. The website did not respond during the availability check on 16 November 2026; the case remains available on GitHub.
+I identified team needs, designed the solution, coordinated implementation with AI, tested workflows and introduced the system.
 
-### [Euphoria — salon website and booking flow](en/cases/euphoria.md)
+**Introduced in September 2026.** I have not independently verified current operation since leaving the clinic. No quantified impact measurements were taken. The public case contains interfaces without current patient data.
 
-A work-in-progress salon website. Services, team presentation and the initial booking interface are available; the complete booking flow still needs implementation and verification.
+[Story and workflows →](en/cases/smile-talk.md)
 
-## How I work
+### 03 / DocFold
+**Documents in folders. Review first, organize second.**
 
-**Understand the task → define requirements → design the user flow → implement with AI → test → refine.**
+<a href="https://github.com/r3in04ka-prog/docfold"><img src="https://raw.githubusercontent.com/r3in04ka-prog/docfold/main/assets/screenshots/review.png" width="100%" alt="DocFold — reviewing a fictional document after OCR."></a>
 
-I use AI for technical implementation. I take responsibility for framing the problem, product decisions and checking the outcome. Cases distinguish implemented features, plans and unverified behavior.
+A local Windows tool for PDFs and scans: extract text, review suggested names and folders, then export copies with a register. No account or external API.
 
-[Explore the case studies](en/START-HERE.md#understand-my-approach) · [Work with me](en/WORK-WITH-ME.md)
+The focus is the complete file-processing flow: Russian and English OCR, exact duplicate detection, manual corrections and keeping originals unchanged.
+
+**Try it:** built-in fictional sample documents. First release 0.1.0; OCR and suggested document details need human review.
+
+[Download](https://github.com/r3in04ka-prog/docfold/releases/tag/v0.1.0) · [Source and English guide](https://github.com/r3in04ka-prog/docfold/blob/main/README.en.md)
+
+### 04 / OpenPost
+**Your mail, in your own window.**
+
+<a href="en/cases/openpost.md"><img src="assets/zine/openpost-cover.jpg" width="100%" alt="OpenPost — desktop email client."></a>
+
+A Python desktop email client: inbox, reading, search, sending and replies over IMAP/SMTP. The interface and background network operations follow everyday email workflows.
+
+**Try it:** a synthetic demo mailbox without connecting personal email. Early single-account version; OAuth and attachments are not implemented. Real delivery needs checking with your provider.
+
+[Download](https://github.com/r3in04ka-prog/openpost/releases/latest) · [Story and demo](en/cases/openpost.md) · [Source](https://github.com/r3in04ka-prog/openpost)
+
+## More from my world
+
+### CashTab / A desktop inside a tab
+
+<a href="https://github.com/r3in04ka-prog/CashTab"><img src="https://raw.githubusercontent.com/r3in04ka-prog/CashTab/main/screenshots/desktop.jpg" width="100%" alt="CashTab — a classic Mac-inspired Chrome new tab."></a>
+
+A dock, links, notes and custom wallpaper: a small personal space in Chrome. Settings stay local. Distributed through GitHub and installed in developer mode.
+
+[Explore and install →](https://github.com/r3in04ka-prog/CashTab)
+
+### Euphoria / From discovery to booking
+
+<a href="en/cases/euphoria.md"><img src="assets/zine/euphoria.png" width="100%" alt="Euphoria — salon website and booking flow in progress."></a>
+
+A salon website and customer journey: service → specialist → time → contact details. A work in progress exploring service presentation and booking logic.
+
+**In development:** the complete booking and handling flow still needs completion and verification.
+
+[Current state and case →](en/cases/euphoria.md)
+
+### CASHED! / A separate brand, its own story
+
+<a href="en/cases/cashed.md"><img src="assets/zine/cashed-wide.png" width="100%" alt="CASHED! — an independent digital brand at launch stage."></a>
+
+My digital brand with its own concept, visual identity and website. REINOCHKA is my professional profile; CASHED! develops separately.
+
+**At launch stage.** Website availability and readiness are documented in the case.
+
+[The CASHED! story →](en/cases/cashed.md) · [More visual work →](en/PORTFOLIO.md)
+
+## Behind the scenes
+
+Idea → user flow → AI-assisted implementation → checking → refinement.
+
+I use ChatGPT, Claude and OpenAI Codex for technical implementation. My responsibility covers problem definition, product decisions, user flows and checking the resulting behavior. The materials distinguish implemented features, plans and unverified behavior.
+
+**Implementation notes:** [A demo without a model or key](en/notes/offline-demo.md) / [Email client boundaries](en/notes/mail-boundaries.md)
+
+<a href="en/USEFUL.md"><img src="assets/zine/useful.jpg" width="100%" alt="Reusable templates, checklists and implementation notes."></a>
+
+[Product brief](en/templates/product-brief.md) · [Automation map](en/templates/automation-map.md) · [Demo checklist](en/templates/demo-checklist.md) · [Release card](en/templates/release-card.md)
+
+[All resources →](en/USEFUL.md)
+
+Original artwork and recorded application interfaces are in Russian.
+
+## Say hello
+
+Open to full-time work in AI-assisted prototyping and automation, and to conversations about my projects.
+
+Novosibirsk · remote or office · open to relocation
+
+[Telegram ↗](https://t.me/r3in04ka) · [Email ↗](mailto:r3in04ka@gmail.com) · [Working with me](en/WORK-WITH-ME.md)
