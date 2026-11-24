@@ -40,7 +40,7 @@ CRM, два Telegram-бота, обмен с Dental Pro, ежедневные с
 ### 02 / DocFold
 **PDF и сканы — в проверенные документы по папкам.**
 
-<a href="https://github.com/r3in04ka-prog/docfold"><img src="https://raw.githubusercontent.com/r3in04ka-prog/docfold/main/assets/screenshots/review.png" width="100%" alt="DocFold — проверка вымышленного документа после распознавания."></a>
+<a href="https://github.com/r3in04ka-prog/docfold"><img src="assets/zine/docfold-cover.jpg" width="100%" alt="DocFold — документы по папкам."></a>
 
 Локальный инструмент для PDF и сканов: извлечь текст, проверить предложенные имена и папки, сохранить копии с реестром. Без аккаунта и внешнего API.
 
@@ -98,7 +98,7 @@ CRM, два Telegram-бота, обмен с Dental Pro, ежедневные с
 
 ### CashTab / Рабочий стол внутри вкладки
 
-<a href="https://github.com/r3in04ka-prog/CashTab"><img src="https://raw.githubusercontent.com/r3in04ka-prog/CashTab/main/screenshots/desktop.jpg" width="100%" alt="CashTab — новая вкладка Chrome в стиле классического рабочего стола Mac."></a>
+<a href="https://github.com/r3in04ka-prog/CashTab"><img src="assets/zine/cashtab-cover.jpg" width="100%" alt="CashTab — новая вкладка Chrome в стиле классического рабочего стола Mac."></a>
 
 Док, ссылки, заметки и свои обои — маленькое личное пространство в Chrome. Настройки хранятся локально. Расширение распространяется через GitHub и устанавливается в режиме разработчика.
 
