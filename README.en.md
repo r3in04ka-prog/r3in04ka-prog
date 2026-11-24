@@ -10,26 +10,26 @@
 
 **REINOCHKA / Anastasia Vakulenko**
 
-I imagine and build digital things: apps with personality, practical tools and workflow automation.
+**AI Automation Specialist | AI Product Builder**
 
-Here you can try what exists, explore how it came together, and see what is still taking shape.
+I turn everyday work into digital products: CRM systems, Telegram bots, integrations and desktop applications. I define user flows, coordinate AI-assisted implementation, check behavior and refine the result.
+
+Explore a system introduced in a clinic, open-source desktop tools and the decisions behind them.
+
+[Quick portfolio guide →](en/START-HERE.md) · [Clinic system →](en/cases/smile-talk.md) · [Try DocFold →](https://github.com/r3in04ka-prog/docfold/releases/tag/v0.1.0)
+
+## At a glance
+
+| Task | Project | Explore |
+|---|---|---|
+| Team workflow automation | **SMILE TALK** | [Clinic workflows and rollout](en/cases/smile-talk.md) |
+| Document processing | **DocFold** | [Decisions, interface and first release](en/cases/docfold.md) |
+| An AI application | **Purrsonal** | [Key-free demo and product story](en/cases/purrsonal.md) |
+| A desktop email client | **OpenPost** | [Demo and release boundaries](en/cases/openpost.md) |
 
 ## Selected projects
 
-### 01 / Purrsonal
-**A little kitten, a bigger idea for personal AI.**
-
-<a href="en/cases/purrsonal.md"><img src="assets/zine/purrsonal.png" width="100%" alt="Purrsonal — Windows desktop AI kitten."></a>
-
-A desktop companion with configurable personality, chat with your chosen model and persistent reminders. From a character concept to an open application you can install and make your own.
-
-I defined the concept, behavior and first-version scope, coordinated AI-assisted implementation and checked user flows.
-
-**Try it:** an offline demo without a model or key. Demo replies are scripted; real conversations require your own model. Early test release 0.2.0.
-
-[Download for Windows](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0) · [Story and demo](en/cases/purrsonal.md) · [Source](https://github.com/r3in04ka-prog/purrsonal)
-
-### 02 / SMILE TALK
+### 01 / SMILE TALK
 **A clinic system that grew out of an administrator's daily work.**
 
 <a href="en/cases/smile-talk.md"><img src="assets/zine/smile-talk.png" width="100%" alt="SMILE TALK — clinic CRM, Telegram bots and workflow automation."></a>
@@ -42,10 +42,10 @@ I identified team needs, designed the solution, coordinated implementation with 
 
 [Story and workflows →](en/cases/smile-talk.md)
 
-### 03 / DocFold
+### 02 / DocFold
 **Documents in folders. Review first, organize second.**
 
-<a href="https://github.com/r3in04ka-prog/docfold"><img src="https://raw.githubusercontent.com/r3in04ka-prog/docfold/main/assets/screenshots/review.png" width="100%" alt="DocFold — reviewing a fictional document after OCR."></a>
+<a href="en/cases/docfold.md"><img src="assets/zine/docfold-cover.jpg" width="100%" alt="DocFold — local document processing."></a>
 
 A local Windows tool for PDFs and scans: extract text, review suggested names and folders, then export copies with a register. No account or external API.
 
@@ -53,7 +53,20 @@ The focus is the complete file-processing flow: Russian and English OCR, exact d
 
 **Try it:** built-in fictional sample documents. First release 0.1.0; OCR and suggested document details need human review.
 
-[Download](https://github.com/r3in04ka-prog/docfold/releases/tag/v0.1.0) · [Source and English guide](https://github.com/r3in04ka-prog/docfold/blob/main/README.en.md)
+[Download](https://github.com/r3in04ka-prog/docfold/releases/tag/v0.1.0) · [Product case](en/cases/docfold.md) · [Source and English guide](https://github.com/r3in04ka-prog/docfold/blob/main/README.en.md)
+
+### 03 / Purrsonal
+**A little kitten, a bigger idea for personal AI.**
+
+<a href="en/cases/purrsonal.md"><img src="assets/zine/purrsonal.png" width="100%" alt="Purrsonal — Windows desktop AI kitten."></a>
+
+A desktop companion with configurable personality, chat with your chosen model and persistent reminders. From a character concept to an open application you can install and make your own.
+
+I defined the concept, behavior and first-version scope, coordinated AI-assisted implementation and checked user flows.
+
+**Try it:** an offline demo without a model or key. Demo replies are scripted; real conversations require your own model. Early test release 0.2.0.
+
+[Download for Windows](https://github.com/r3in04ka-prog/purrsonal/releases/tag/v0.2.0) · [Story and demo](en/cases/purrsonal.md) · [Source](https://github.com/r3in04ka-prog/purrsonal)
 
 ### 04 / OpenPost
 **Your mail, in your own window.**
@@ -70,7 +83,7 @@ A Python desktop email client: inbox, reading, search, sending and replies over 
 
 ### CashTab / A desktop inside a tab
 
-<a href="https://github.com/r3in04ka-prog/CashTab"><img src="https://raw.githubusercontent.com/r3in04ka-prog/CashTab/main/screenshots/desktop.jpg" width="100%" alt="CashTab — a classic Mac-inspired Chrome new tab."></a>
+<a href="https://github.com/r3in04ka-prog/CashTab"><img src="assets/zine/cashtab-cover.jpg" width="100%" alt="CashTab — a classic Mac-inspired Chrome new tab."></a>
 
 A dock, links, notes and custom wallpaper: a small personal space in Chrome. Settings stay local. Distributed through GitHub and installed in developer mode.
 
@@ -114,7 +127,7 @@ Original artwork and recorded application interfaces are in Russian.
 
 ## Say hello
 
-Open to full-time work in AI-assisted prototyping and automation, and to conversations about my projects.
+Open to full-time work in AI Product Building and workflow automation: internal tools, CRM systems, bots and integrations. Also happy to discuss my projects.
 
 Novosibirsk · remote or office · open to relocation
 

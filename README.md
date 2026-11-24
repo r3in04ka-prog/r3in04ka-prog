@@ -14,13 +14,22 @@
 
 **REINOCHKA / Анастасия Вакуленко**
 
-**AI Product Builder · автоматизация · приложения**
+**AI Automation Specialist | AI Product Builder**
 
 Превращаю рабочие задачи в цифровые продукты: CRM, Telegram-ботов, интеграции и собственные приложения. Продумываю сценарии, собираю решения с ИИ, проверяю и дорабатываю.
 
 Здесь — система, внедрённая в клинике, открытые desktop-инструменты и истории их создания.
 
-[Система для клиники →](cases/smile-talk.md) · [Попробовать DocFold →](https://github.com/r3in04ka-prog/docfold/releases/tag/v0.1.0)
+[Быстрый обзор портфолио →](START-HERE.md) · [Система для клиники →](cases/smile-talk.md) · [Попробовать DocFold →](https://github.com/r3in04ka-prog/docfold/releases/tag/v0.1.0)
+
+## За минуту
+
+| Задача | Проект | Что посмотреть |
+|---|---|---|
+| Автоматизация работы команды | **SMILE TALK** | [Сценарии и внедрение в клинике](cases/smile-talk.md) |
+| Обработка документов | **DocFold** | [Решения, интерфейс и первая версия](cases/docfold.md) |
+| Приложение с ИИ | **Purrsonal** | [Демо без ключа и история продукта](cases/purrsonal.md) |
+| Почтовый клиент | **OpenPost** | [Демонстрация и границы версии](cases/openpost.md) |
 
 ## Избранное
 
@@ -40,7 +49,7 @@ CRM, два Telegram-бота, обмен с Dental Pro, ежедневные с
 ### 02 / DocFold
 **PDF и сканы — в проверенные документы по папкам.**
 
-<a href="https://github.com/r3in04ka-prog/docfold"><img src="assets/zine/docfold-cover.jpg" width="100%" alt="DocFold — документы по папкам."></a>
+<a href="cases/docfold.md"><img src="assets/zine/docfold-cover.jpg" width="100%" alt="DocFold — документы по папкам."></a>
 
 Локальный инструмент для PDF и сканов: извлечь текст, проверить предложенные имена и папки, сохранить копии с реестром. Без аккаунта и внешнего API.
 
@@ -48,7 +57,7 @@ CRM, два Telegram-бота, обмен с Dental Pro, ежедневные с
 
 **Попробовать:** встроенный пример с вымышленными документами. Первая версия 0.1.0; распознавание и предложенные реквизиты требуют проверки пользователем.
 
-[Скачать для Windows](https://github.com/r3in04ka-prog/docfold/releases/tag/v0.1.0) · [Код и устройство проекта](https://github.com/r3in04ka-prog/docfold)
+[Скачать для Windows](https://github.com/r3in04ka-prog/docfold/releases/tag/v0.1.0) · [Разбор продукта](cases/docfold.md) · [Код](https://github.com/r3in04ka-prog/docfold)
 
 ### 03 / Purrsonal
 **Маленький котик, большая идея персонального ИИ.**

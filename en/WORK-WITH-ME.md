@@ -2,7 +2,7 @@
 
 # Work with me
 
-**Open to full-time roles in AI-assisted product prototyping and workflow automation.** Based in Novosibirsk, Russia; open to remote work, office roles and relocation.
+**AI Automation Specialist | AI Product Builder. Open to full-time roles in IT.** Based in Novosibirsk, Russia; open to remote work, office roles and relocation.
 
 I define user flows, coordinate implementation with AI tools and check how the result behaves.
 
@@ -20,6 +20,8 @@ I use AI tools for technical implementation. My responsibilities are problem def
 | Task | Example |
 |---|---|
 | Team workflow automation | [SMILE TALK](cases/smile-talk.md) |
+| Document processing | [DocFold — local OCR, review and export](cases/docfold.md) |
+| A personal browser workspace | [CashTab — a Chrome new-tab extension](https://github.com/r3in04ka-prog/CashTab) |
 | Open-source desktop products | [Purrsonal](cases/purrsonal.md) and [OpenPost](cases/openpost.md) |
 | Brand and visual design | [CASHED!](cases/cashed.md) and [visual portfolio](PORTFOLIO.md) |
 | Customer journey | [Euphoria](cases/euphoria.md), in development |
